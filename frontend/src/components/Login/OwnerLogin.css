@@ -1,0 +1,40 @@
+.title-text{
+    font-size: 32px;
+}
+
+.image-column{
+    vertical-align: center;
+    align-items: center;
+    padding-top : 8rem;
+    padding-left : 6rem;
+    box-shadow: 2px;
+    border-radius: 2px;
+}
+
+.login-form.owner-login{
+    vertical-align: center;
+    padding: 8rem 4rem 4rem 4rem;
+}
+
+.border-login{
+    border : .5px solid gray;
+    box-shadow: 5px;
+    border-radius: 3px;
+    padding: 2rem;
+}
+
+.footer{
+    color: black;
+    font-size:12px;
+    text-align: center;
+    padding-top: 1em;
+}
+
+.owner-login{
+    background-color: #f4f4f4;
+    height: max-content;
+}
+
+h6.signup-text{
+    color: #2F4F88;
+}

@@ -1,0 +1,32 @@
+.media-body{
+    color: gray;
+    padding: 1em;
+    border: 1px;
+}
+
+.thumbnail-img{
+    width:128px;
+    height:128px;
+    border-radius: 8px;
+    vertical-align: center;
+    padding-top: 1em;
+    padding-left: 1em;
+}
+
+tr{
+    border: .5px solid black;
+    padding-top: 1.5em;
+    border-radius: 10px;
+    margin-top:1.5em;
+    
+}
+
+tr:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+
+.main-container{
+    padding-bottom: 5em;
+}
+
+

@@ -1,0 +1,119 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+    background: #f7f7f8;
+}
+
+.main-homepage{
+  color: #d4d4d4;
+}
+
+.main-jumbotron {
+    position: relative;
+    height: 90vh;
+    background-color: #343a40;
+    background: url('https://csvcus.homeaway.com/rsrcs/stab-cms-resources/0.10.30/images/homepage/jumbotron/ptaHpNextHeroImage/large.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    z-index: 0;
+}
+
+.nav-link{
+  font-style: normal;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+.my-heading{
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+}
+
+
+.heading-text{
+  text-align: left;
+  text-shadow: true;
+  padding-left: 8rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+h5.sub-heading{
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 2rem;
+}
+
+h6.sub-heading{
+  text-align: center;
+  font-size: 10px;
+}
+
+.main-homepage .my-form{
+  font-size: 2rem;
+  margin-left: 8rem;
+  margin-right: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+  align-items: center;
+  z-index: 1;
+}
+
+/* .input-lg{
+  width: 8rem;
+}
+
+.input-sm{
+  width:2rem;
+} */
+
+.main-homepage .btn{
+  margin-top: 1.5rem;
+}
+
+.jumbotron-heading{
+  padding-left: 8rem;
+  padding-top: 5rem;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 40px;
+  color: white;
+}
+
+.text-center{
+  font-weight: bold;
+}
+
+header.heading .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.3}
+
+h6.header-text{
+  font-size: 15px;
+}
+
+p.header-text{
+  font-size: 11px;
+  font-weight: lighter;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+}
+
+label{
+  text-align: left;
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}

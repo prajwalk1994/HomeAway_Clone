@@ -1,0 +1,53 @@
+.tabs-left {
+  border-bottom: none;
+  padding-top: 2px;
+  border-right: 1px solid #ddd;
+  background-color: blue;
+}
+
+.nav-link.list-property-link{
+  color: blue;
+  font-weight: normal;
+}
+
+.nav-link.list-property-link:hover{
+  text-decoration: underline;
+}
+
+.list-property-form{
+  padding-top: 8em;
+  padding-left:10em;
+}
+
+.tab-content.right-pane{
+  padding: 2em;
+  border : .5px solid gray;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 3px;
+  height: 24em;
+  background-color: white;
+}
+
+.right-pane .tab-pane .form-control{
+  margin-bottom: 1.5em;
+}
+
+.right-pane .tab-pane .form-control label{
+  color: gray;
+}
+
+.tabs-left>li {
+  float: none;
+  margin-bottom: 2px;
+}
+
+.tabs-left>li.active>a,
+.tabs-left>li.active>a:hover,
+.tabs-left>li.active>a:focus {
+  border-bottom-color: #ddd;
+  border-right-color: transparent;
+}
+
+.list-property-form label{
+  color:black;
+}

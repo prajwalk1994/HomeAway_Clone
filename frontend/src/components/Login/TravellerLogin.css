@@ -1,0 +1,80 @@
+.traveller-login{
+    background-color: #f4f4f4;
+    height: max-content;
+}
+h1.title-text{
+    padding-top:4rem;
+    text-align: center;
+    font-size: 32px;
+    color: black;
+}
+h3.title-text{
+    color: black;
+    text-align: center;
+    font-size: 24px;
+}
+
+h3 Link{
+    color: #BED0E5;
+}
+
+.form{
+    padding-top:1em;
+}
+
+.container.my-form{
+    box-align: center;
+    width: 35%;
+    height: fit-content;
+    background-color: white;
+    border: 1px solid #BED0E5;
+    border-radius: 3px;
+    box-shadow: 3px;
+    padding: 1em 1em 2em 1em;
+    margin-top:1em;
+
+}
+
+.traveller-login .login-form{
+    padding-top: 4rem;
+}
+
+.traveller-login .btn.btn-primary{
+    width: 100%;
+    background-color: #e4a257;
+    padding-bottom: .5em;
+}
+
+.form-title{
+    color: black;
+    text-align: center;
+}
+
+.btn-facebook{
+    width: 100%;
+    background-color: #2F4F88;
+    color:white;
+}
+
+Navbar{
+    box-shadow: 1px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.footer{
+    color: black;
+    font-size:12px;
+    text-align: center;
+    padding-top: 1em;
+}
+
+.traveller-login .my-form{
+  font-size: 2rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+  align-items: center;
+  z-index: 1;
+}

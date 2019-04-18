@@ -1,0 +1,43 @@
+.property-img{
+    height: 400px;
+}
+
+.left-container{
+    padding: 1 em;
+    border-right: .5px solid gray;
+}
+
+.left-container h4{
+    color: gray;
+    font-weight: bold;
+    padding-top : 1em;
+}
+
+.right-container{
+    color: black;
+}
+
+.property-rate{
+    display: inline;
+}
+
+.booking-form{
+    padding-top: 2em;
+}
+
+.book-btn{
+    width: 80%;
+    margin : 1.5em;
+}
+
+.right-container label{
+    color: gray;
+}
+
+.property-title{
+    padding-top: 1em;
+}
+
+.guests-form{
+    margin: 1em;
+}
